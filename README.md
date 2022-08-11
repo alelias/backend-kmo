@@ -1,5 +1,6 @@
-"# backend-kmo" 
+PROYECTO BASE KM0
 
-#cargar proyecto en ambiente local
-#sobre el directorio del proyecto realizar npm install
-#iniciar proyecto base con node ace serve --watch
+#PASOS A SEGUIR
+-cargar proyecto en ambiente local
+-sobre el directorio del proyecto realizar npm install
+-iniciar proyecto base con node ace serve --watch
